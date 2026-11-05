@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Basic page settings -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Terms and Conditions | Gracious World</title>
+    <meta
+      name="description"
+      content="Terms and Conditions of Gracious World."
+    />
+
+    <!-- Small icon shown in the browser tab -->
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+
+    <!-- Fonts: DM Serif Display (headings) and Manrope (all other text) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Manrope:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Icon file: the small icons used across the site -->
+    <link rel="stylesheet" href="assets/icons.css" />
+
+    <!-- Design file: all colours, fonts and layout -->
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+
+  <body>
+    <!-- ============ TOP MENU (transparent over the photo, solid after scrolling) ============ -->
+    <header id="site-header">
+      <div class="wrap header-bar">
+        <a class="logo" href="index.html">
+          <img src="assets/logo.svg" alt="Gracious World" />
+        </a>
+
+        <!-- Menu links -->
+        <nav id="menu" aria-label="Main menu">
+          <a href="index.html">Home</a>
+        </nav>
+
+        <button type="button" class="btn header-button" data-open="plan-popup">
+          <span class="icon icon-compass"></span> Plan a Trip
+        </button>
+
+        <!-- Three-line button that opens the menu on phones -->
+        <button
+          type="button"
+          class="menu-toggle"
+          id="menu-toggle"
+          aria-label="Menu"
+          aria-expanded="false"
+        >
+          &#9776;
+        </button>
+      </div>
+    </header>
+
+    <!-- ============ PAGE TEXT ============ -->
+    <main class="legal-page">
+      <h1>Terms &amp; Conditions</h1>
+
+      <h2>Pricing</h2>
+      <p>
+        Package prices are per person and depend on season, hotel category and
+        availability. The final price is confirmed at booking.
+      </p>
+
+      <h2>Booking and payment</h2>
+      <p>
+        A booking is confirmed after the advance payment is received. The
+        balance is due before departure, as informed by your trip manager.
+      </p>
+
+      <h2>Cancellation and refund</h2>
+      <p>
+        Cancellation charges depend on hotel, transport and travel date policies
+        and are shared at the time of booking.
+      </p>
+
+      <h2>Itinerary changes</h2>
+      <p>
+        Weather, road closures and government orders can change plans. We will
+        offer the closest alternative.
+      </p>
+
+      <h2>Traveller responsibility</h2>
+      <p>Carry valid ID and follow local rules and safety guidance.</p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions:
+        <a href="mailto:info@graciousworld.in">info@graciousworld.in</a>
+      </p>
+    </main>
+
+    <!-- ============ FOOTER (slim version) ============ -->
+    <footer>
+      <div class="wrap">
+        <div class="footer-bottom">
+          <div>
+            &copy; <span class="current-year">2026</span> Gracious World. All
+            rights reserved.
+          </div>
+          <span>
+            <a href="privacy.html">Privacy Policy</a>
+            <a href="terms.html">Terms &amp; Conditions</a>
+          </span>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ============ FLOATING WHATSAPP AND CALL BUTTONS (bottom right of every page) ============ -->
+    <div class="floating-buttons">
+      <a
+        class="float-whatsapp"
+        href="https://wa.me/919315219998?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20tour%20packages"
+        target="_blank"
+        rel="noopener"
+        aria-label="WhatsApp"
+      >
+        <span class="icon icon-whatsapp"></span>
+      </a>
+      <a class="float-call" href="tel:+919315219998" aria-label="Call">
+        <span class="icon icon-phone"></span>
+      </a>
+    </div>
+
+    <!-- ============ POPUP FORM 1: PLAN A TRIP (opened by every "Plan a Trip" button) ============ -->
+    <div
+      class="popup"
+      id="plan-popup"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Plan a Trip"
+    >
+      <form class="popup-box">
+        <button type="button" class="popup-close" aria-label="Close">
+          &times;
+        </button>
+        <h3>Plan a Trip</h3>
+
+        <label
+          ><span class="icon icon-user"></span> Full Name<input
+            name="name"
+            type="text"
+            autocomplete="name"
+            required
+        /></label>
+
+        <div class="two-columns">
+          <label
+            ><span class="icon icon-phone"></span> Phone Number<input
+              name="phone"
+              type="tel"
+              autocomplete="tel"
+              required
+          /></label>
+          <label
+            ><span class="icon icon-mail"></span> Email<input
+              name="email"
+              type="email"
+              autocomplete="email"
+              required
+          /></label>
+        </div>
+
+        <div class="two-columns">
+          <label
+            ><span class="icon icon-calendar"></span> Travel Date<input
+              name="date"
+              type="date"
+              required
+          /></label>
+          <label
+            ><span class="icon icon-calendar"></span> Travel Month
+            <select name="month" required>
+              <option>January</option>
+              <option>February</option>
+              <option>March</option>
+              <option>April</option>
+              <option>May</option>
+              <option>June</option>
+              <option>July</option>
+              <option>August</option>
+              <option>September</option>
+              <option>October</option>
+              <option>November</option>
+              <option>December</option>
+            </select>
+          </label>
+        </div>
+
+        <label
+          ><span class="icon icon-users"></span> Number of Persons<input
+            name="persons"
+            type="number"
+            min="1"
+            required
+        /></label>
+        <label
+          ><span class="icon icon-message"></span> Requirement /
+          Message<textarea name="message" required></textarea>
+        </label>
+
+        <button type="submit" class="btn popup-submit">
+          <span class="icon icon-send"></span> Submit
+        </button>
+        <p class="popup-message"></p>
+      </form>
+    </div>
+
+    <!-- EmailJS: the service that sends form details to your email -->
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4.4.1/dist/email.min.js"></script>
+
+    <!-- Behaviour file: sliders, popups, Read More, animations (also holds your EmailJS keys) -->
+    <script src="assets/script.js"></script>
+  </body>
+</html>

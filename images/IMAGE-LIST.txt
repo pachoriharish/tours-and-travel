@@ -1,0 +1,109 @@
+EVERY PHOTO ON THE WEBSITE (each card has its own file)
+=========================================================
+Replace any file below with your own photo. Keep the same file name
+and keep it a .jpg. Suggested size: about 1200 x 800 pixels for cards,
+1920 x 1080 for banners, 1000 x 1250 for the About Us photo.
+Any file that still shows a labelled placeholder picture is waiting for your own photo.
+
+images/about.jpg
+    About Us section photo (portrait shape works best)
+images/kashmir/hero.jpg
+    Kashmir big banner photo (home slider and top of the Kashmir page)
+images/kashmir/card.jpg
+    Tour category card on the home page: Kashmir Tour Packages
+images/kashmir/kashmir-tour-package-from-srinagar.jpg
+    Package card: Kashmir Tour Package From Srinagar
+images/kashmir/kashmir-honeymoon-special.jpg
+    Package card: Kashmir Honeymoon Special
+images/kashmir/srinagar-gulmarg-short-break.jpg
+    Package card: Srinagar Gulmarg Short Break
+images/kashmir/pahalgam-sonmarg-escape.jpg
+    Package card: Pahalgam Sonmarg Escape
+images/kashmir/kashmir-with-doodhpathri-package.jpg
+    Package card: Kashmir With Doodhpathri Package
+images/kashmir/kashmir-family-package.jpg
+    Package card: Kashmir Family Package
+images/kashmir/kashmir-luxury-houseboat-tour.jpg
+    Package card: Kashmir Luxury Houseboat Tour
+images/kashmir/kashmir-winter-snow-package.jpg
+    Package card: Kashmir Winter Snow Package
+images/himachal/hero.jpg
+    Himachal Pradesh big banner photo (home slider and top of the Himachal Pradesh page)
+images/himachal/card.jpg
+    Tour category card on the home page: Himachal Tour Packages
+images/himachal/manali-tour-package-from-delhi.jpg
+    Package card: Manali Tour Package From Delhi
+images/himachal/kullu-manali-tour-package-from-delhi.jpg
+    Package card: Kullu Manali Tour Package From Delhi
+images/himachal/manali-kasol-volvo-package.jpg
+    Package card: Manali Kasol Volvo Package
+images/himachal/shimla-kufri-volvo-tour-package.jpg
+    Package card: Shimla Kufri Volvo Tour Package
+images/himachal/kasol-kheerganga-tour-package.jpg
+    Package card: Kasol Kheerganga Tour Package
+images/himachal/manali-kasol-jibhi-group-package.jpg
+    Package card: Manali Kasol & Jibhi Group Package
+images/himachal/shimla-manali-volvo-package.jpg
+    Package card: Shimla Manali Volvo Package
+images/himachal/dharamshala-dalhousie-package.jpg
+    Package card: Dharamshala Dalhousie Package
+images/kerala/hero.jpg
+    Kerala big banner photo (home slider and top of the Kerala page)
+images/kerala/card.jpg
+    Tour category card on the home page: Kerala Tour Packages
+images/kerala/munnar-alleppey-kovalam-package.jpg
+    Package card: Munnar Alleppey Kovalam Package
+images/kerala/kerala-honeymoon-package.jpg
+    Package card: Kerala Honeymoon Package
+images/kerala/munnar-thekkady-package.jpg
+    Package card: Munnar Thekkady Package
+images/kerala/alleppey-houseboat-escape.jpg
+    Package card: Alleppey Houseboat Escape
+images/kerala/kovalam-varkala-beach-break.jpg
+    Package card: Kovalam Varkala Beach Break
+images/kerala/wayanad-kozhikode-package.jpg
+    Package card: Wayanad Kozhikode Package
+images/kerala/kerala-family-tour.jpg
+    Package card: Kerala Family Tour
+images/kerala/kerala-luxury-backwater-retreat.jpg
+    Package card: Kerala Luxury Backwater Retreat
+images/rajasthan/hero.jpg
+    Rajasthan big banner photo (home slider and top of the Rajasthan page)
+images/rajasthan/card.jpg
+    Tour category card on the home page: Rajasthan Tour Packages
+images/rajasthan/rajasthan-royal-tour.jpg
+    Package card: Rajasthan Royal Tour
+images/rajasthan/jaipur-udaipur-package.jpg
+    Package card: Jaipur Udaipur Package
+images/rajasthan/jaipur-jodhpur-jaisalmer-package.jpg
+    Package card: Jaipur Jodhpur Jaisalmer Package
+images/rajasthan/golden-triangle-with-jaipur.jpg
+    Package card: Golden Triangle With Jaipur
+images/rajasthan/udaipur-mount-abu-escape.jpg
+    Package card: Udaipur Mount Abu Escape
+images/rajasthan/jaisalmer-desert-special.jpg
+    Package card: Jaisalmer Desert Special
+images/rajasthan/pushkar-jaipur-short-break.jpg
+    Package card: Pushkar Jaipur Short Break
+images/rajasthan/rajasthan-heritage-hotel-tour.jpg
+    Package card: Rajasthan Heritage Hotel Tour
+images/uttarakhand/hero.jpg
+    Uttarakhand big banner photo (home slider and top of the Uttarakhand page)
+images/uttarakhand/card.jpg
+    Tour category card on the home page: Uttarakhand Packages
+images/uttarakhand/nainital-mussoorie-package.jpg
+    Package card: Nainital Mussoorie Package
+images/uttarakhand/rishikesh-haridwar-package.jpg
+    Package card: Rishikesh Haridwar Package
+images/uttarakhand/rishikesh-rafting-and-camping.jpg
+    Package card: Rishikesh Rafting and Camping
+images/uttarakhand/mussoorie-dhanaulti-package.jpg
+    Package card: Mussoorie Dhanaulti Package
+images/uttarakhand/nainital-jim-corbett-package.jpg
+    Package card: Nainital Jim Corbett Package
+images/uttarakhand/auli-joshimath-package.jpg
+    Package card: Auli Joshimath Package
+images/uttarakhand/chopta-tungnath-trek.jpg
+    Package card: Chopta Tungnath Trek
+images/uttarakhand/uttarakhand-hill-resort-escape.jpg
+    Package card: Uttarakhand Hill Resort Escape
